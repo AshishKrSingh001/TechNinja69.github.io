@@ -6,7 +6,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 
 # User settings
 username: Ashish Singh
-user_description: 👋 Hi, my name is Ashish and I'm from India. I'm a Windows focused Software developer. I like checking out open source projects and sharing my own code on Github. I have experience working in agile environments and am a convinced advocate of clean code. I automate repetitive processes on my computer via bash or python scripting. I am passionate about investing and I'm planning to share my experiences on a blog later on.
+user_description: 👋 Hi, my name is Ashish and I'm from India. I'm a Windows focused Software developer. I like checking out open source projects and sharing my own code on Github. I have experience working in agile environments and am a convinced advocate of clean code. I automate repetitive processes on my computer via bash or python scripting.
 user_title: Software Developer
 email: ashish855116@gmail.com
 twitter_username: lorem_ipsum
